@@ -1,0 +1,10 @@
+{
+    "name": "Neptune",
+    "description": "The ancient Roman god of the sea, identified with the Greek god Poseidon.",
+    "version": "1.0.0",
+    "author": "mo",
+    "theme": "custom.css",
+    "consent": "false",
+    "splashTheme": "splash.css",
+    "license": "lol"
+}
