@@ -1802,3 +1802,19 @@ img[alt*="Xbox Live"] + * {
 .connectionIcon-2ElzVe[alt*="Xbox Live"] {
   content: url("https://discord.com/assets/850ed4fcf5839b7a32651f5959e8511e.png");
 }
+.circleIconButton-jET_ig svg path{
+  fill: #7f7cbd;
+}
+.circleIconButton-jET_ig.selected-ugP_am{
+  background-color:var(--interactive-active);
+}
+.circleIconButton-jET_ig.selected-ugP_am svg path{
+  fill: var(--background-tertiary);
+}
+.headerSpotify-zpWxgT, .topSectionSpotify-1lI0-P {
+   z-index: 1;
+   background-color: #8e71d9
+}
+.lookInverted-2D7oAl.colorGreen-29iAKY {
+color: var(--text-muted)
+}
