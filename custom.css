@@ -1,7 +1,12 @@
 
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MoreRoundedBorders/borders.css");
-@import url("https://aokiare.github.io/addons/DiscordFont.css");
-@import url(https://raw.githack.com/moebamba/neptune/main/source.css);
+@import url("https://raw.githack.com/moebamba/neptune/main/source.css");
+@font-face {
+  font-family: 'Discord';
+  font-weight: 900;
+  font-style: normal;
+  src: url("https://raw.githubusercontent.com/powercord-org/powercord-backend/my-awesome-branch/web/src/assets/discord-font.otf") format("opentype");
+}
 .theme-dark, 
 .theme-light, 
 :root {
