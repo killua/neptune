@@ -5,7 +5,7 @@
   font-family: 'Discord';
   font-weight: 900;
   font-style: normal;
-  src: url("https://raw.githubusercontent.com/powercord-org/powercord-backend/my-awesome-branch/web/src/assets/discord-font.otf") format("opentype");
+  src: url("https://raw.githubusercontent.com/powercord-org/powercord-backend/my-awesome-branch/packages/web/src/assets/discord-font.otf") format("opentype");
 }
 .theme-dark, 
 .theme-light, 
